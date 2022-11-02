@@ -4,5 +4,5 @@ This repository contains my solutions to the programming assignments of the Neur
 
 ## Table of Contents
 
-# 1) Linear Regression with Least Squares
+#### 1) Linear Regression with Least Squares
 In [LSlinear_regression](https://github.com/nicolezattarin/Neural-Networks-Deep-Learning/blob/main/src/LSlinear_regression.ipynb) we provide a basic implementation of linear regression using least squares, both with and without regularization. 
