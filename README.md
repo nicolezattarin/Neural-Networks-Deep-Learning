@@ -15,3 +15,8 @@ Example of a feed forward neural network for linear regression, implemented with
 
 #### 4) Binary Classification with Feedforward Neural Networks
 Example of a feed forward neural network for binary classification, implemented with PyTorch. The notebook is available at [PyTorch_binary_classification](https://github.com/nicolezattarin/Neural-Networks-Deep-Learning/blob/main/src/FFNN_classification.ipynb).
+An example of model and classification results is shown below.
+<p float="center">
+  <img src="imgs/classifier_ex.png" width="400" />
+  <img src="imgs/model_class.png" width="400" />
+</p>
