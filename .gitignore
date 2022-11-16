@@ -13,6 +13,9 @@ package/*
 */package
 
 *.csv
+*.torch
+*.png
+
 
 # Distribution / packaging
 .Python
