@@ -9,3 +9,9 @@ In [LSlinear_regression](https://github.com/nicolezattarin/Neural-Networks-Deep-
 
 #### 2) Introduction to PyTorch functionalities
 The notebook available at [PyTorch](https://github.com/nicolezattarin/Neural-Networks-Deep-Learning/blob/main/src/PyTorch_basics.ipynb) provides a brief introduction to the PyTorch functionalities, such as the definition of tensors, the use of autograd, the definition of neural networks and datasets, the use of optimizers and the definition of loss functions.
+
+#### 3) Regression with Feedforward Neural Networks
+Example of a feed forward neural network for linear regression, implemented with PyTorch. The notebook is available at [PyTorch_linear_regression](https://github.com/nicolezattarin/Neural-Networks-Deep-Learning/blob/main/src/FFNN_regression.ipynb).
+
+#### 4) Binary Classification with Feedforward Neural Networks
+Example of a feed forward neural network for binary classification, implemented with PyTorch. The notebook is available at [PyTorch_binary_classification](https://github.com/nicolezattarin/Neural-Networks-Deep-Learning/blob/main/src/FFNN_classification.ipynb).
