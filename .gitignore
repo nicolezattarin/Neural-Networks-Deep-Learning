@@ -147,3 +147,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+src/FFNN_byHand.ipynb
