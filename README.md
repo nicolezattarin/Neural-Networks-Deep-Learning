@@ -25,7 +25,7 @@ An example of model and classification results is shown below.
 We implement a ResNet model for image classification, the architecture is based on CNN, among with the combination of convolutional and identity blocks. The notebook is available at [ResNet](https://github.com/nicolezattarin/Neural-Networks-Deep-Learning/blob/main/src/ResNet.ipynb).
 
 Example of the dataset and the model architecture is shown below.
-<p float="align">
+<p float="center">
   <img src="imgs/convresnet.png" width="550" />
   <img src="imgs/resnet.png" width="200" />
 </p>
@@ -35,8 +35,8 @@ We implement an Inception-v4 model for image classification,
 the architecture consists of three different block types: *Inception blocks*, the *Reduction blocks* and *stem block*. The notebook is available at [Inception-v4](https://github.com/nicolezattarin/Neural-Networks-Deep-Learning/blob/main/src/inceptionv4.ipynb).
 
 
-<p center="align">
- <img src="imgs/Inceptionv4.png" width="550" />
+<p align="center">
+ <img src="imgs/Inceptionv4.png" width="400" />
 </p>
-The dataset is still the same as in the previous exercise.
+The dataset is the same as in the previous exercise.
 
