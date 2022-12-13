@@ -26,7 +26,7 @@ We implement a ResNet model for image classification, the architecture is based 
 
 Example of the dataset and the model architecture is shown below.
 <p float="align">
-  <img src="imgs/convresnet.png" width="700" />
+  <img src="imgs/convresnet.png" width="500" />
   <img src="imgs/resnet.png" width="200" />
 </p>
 
