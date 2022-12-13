@@ -30,4 +30,13 @@ Example of the dataset and the model architecture is shown below.
   <img src="imgs/resnet.png" width="200" />
 </p>
 
+#### 6) Inception-v4 network for Image Classification
+We implement an Inception-v4 model for image classification,
+the architecture consists of three different block types: *Inception blocks*, the *Reduction blocks* and *stem block*. The notebook is available at [Inception-v4](https://github.com/nicolezattarin/Neural-Networks-Deep-Learning/blob/main/src/inceptionv4.ipynb).
+
+
+<p center="align">
+ <img src="imgs/Inceptionv4.png" width="550" />
+</p>
+The dataset is still the same as in the previous exercise.
 
