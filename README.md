@@ -25,10 +25,9 @@ An example of model and classification results is shown below.
 We implement a ResNet model for image classification, the architecture is based on CNN, among with the combination of convolutional and identity blocks. The notebook is available at [ResNet](https://github.com/nicolezattarin/Neural-Networks-Deep-Learning/blob/main/src/ResNet.ipynb).
 
 Example of the dataset and the model architecture is shown below.
-<p float="center">
-  <img src="imgs/convresnet.png" width="800" />
+<p float="align">
+  <img src="imgs/convresnet.png" width="700" />
+  <img src="imgs/resnet.png" width="200" />
 </p>
-<p float="center">
-  <img src="imgs/resnet.png" width="300" />
-</p>
+
 
