@@ -20,3 +20,15 @@ An example of model and classification results is shown below.
   <img src="imgs/classifier_ex.png" width="400" />
   <img src="imgs/model_class.png" width="400" />
 </p>
+
+#### 5) Residual Networks for Image Classification
+We implement a ResNet model for image classification, the architecture is based on CNN, among with the combination of convolutional and identity blocks. The notebook is available at [ResNet](https://github.com/nicolezattarin/Neural-Networks-Deep-Learning/blob/main/src/ResNet.ipynb).
+
+Example of the dataset:
+<p float="center">
+  <img src="imgs/resnet.png" width="400" />
+</p>
+
+<p float="center">
+  <img src="imgs/convresnet.png" width="400" />
+</p>
