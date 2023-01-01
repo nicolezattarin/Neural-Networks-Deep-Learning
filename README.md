@@ -40,3 +40,10 @@ the architecture consists of three different block types: *Inception blocks*, th
 </p>
 The dataset is the same as in the previous exercise.
 
+#### 7) CNN autoencoder
+In [CNN_autoencoder](https://github.com/nicolezattarin/Neural-Networks-Deep-Learning/blob/main/src/CNNAutoencoder.ipynb) we implement a CNN autoencoder for image reconstruction and we test it on fashion MNIST dataset.
+The encoder structure follows:
+<p align="center">
+ <img src="imgs/encoder.png" width="400" />
+</p>
+
