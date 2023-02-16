@@ -47,3 +47,10 @@ The encoder structure follows:
  <img src="imgs/encoder.png" width="600" />
 </p>
 
+
+#### 8) GANs
+In [GANs](https://github.com/nicolezattarin/Neural-Networks-Deep-Learning/blob/main/src/GANS.ipynb) we implement a GAN model for MNIST digit image generation.
+The generation is structured as follows:
+<p align="center">
+ <img src="imgs/gan.png" width="600" />
+</p>
